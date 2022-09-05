@@ -1,0 +1,10 @@
+C:\Users\helin\source\repos\KatmanliMimari\entitylayer\bin\Debug\netcoreapp3.1\entitylayer.deps.json
+C:\Users\helin\source\repos\KatmanliMimari\entitylayer\bin\Debug\netcoreapp3.1\entitylayer.dll
+C:\Users\helin\source\repos\KatmanliMimari\entitylayer\bin\Debug\netcoreapp3.1\entitylayer.pdb
+C:\Users\helin\source\repos\KatmanliMimari\entitylayer\obj\Debug\netcoreapp3.1\entitylayer.csproj.AssemblyReference.cache
+C:\Users\helin\source\repos\KatmanliMimari\entitylayer\obj\Debug\netcoreapp3.1\entitylayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helin\source\repos\KatmanliMimari\entitylayer\obj\Debug\netcoreapp3.1\entitylayer.AssemblyInfoInputs.cache
+C:\Users\helin\source\repos\KatmanliMimari\entitylayer\obj\Debug\netcoreapp3.1\entitylayer.AssemblyInfo.cs
+C:\Users\helin\source\repos\KatmanliMimari\entitylayer\obj\Debug\netcoreapp3.1\entitylayer.csproj.CoreCompileInputs.cache
+C:\Users\helin\source\repos\KatmanliMimari\entitylayer\obj\Debug\netcoreapp3.1\entitylayer.dll
+C:\Users\helin\source\repos\KatmanliMimari\entitylayer\obj\Debug\netcoreapp3.1\entitylayer.pdb
